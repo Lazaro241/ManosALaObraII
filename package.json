@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Lazaro241.github.io/EsqueletoListaTareasReact",
+  "homepage": "https://Lazaro241.github.io/ManosALaObraII",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
